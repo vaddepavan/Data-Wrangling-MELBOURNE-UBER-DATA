@@ -6,8 +6,11 @@
 Exploring and understanding the data is one of the most important parts of the data wrangling
 process. You are required to perform both graphical and non-graphical EDA methods to
 understand the data first and then find the data problems. You are required to:
+
 ● Detect and fix errors 
+
 ● Detect and remove outliers 
+
 ● Impute the missing values 
 
 As a starting point, here is all we know about the dataset in hand:
