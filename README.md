@@ -19,12 +19,12 @@ column is shown in Table 2.
 Table 2. Description of the columns
 
 
-# COLUMN DESCRIPTION
+### COLUMN DESCRIPTION
 
-# Id 
+### Id 
 A unique id for the journey
 
-# Uber type 
+### Uber type 
 A categorical attribute for the type of the journey namely Uber
 pool, Uberx, Uber black. All we know is that the cost of these
 types of journeys may be different.
